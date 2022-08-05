@@ -255,13 +255,14 @@ hr {
         height: 950px;
         border-radius: 10px;
         padding-top: 0%;
+        padding-right: 0px;
 }
 
 .headtext {
     color: white;
     font-size: 60px;
-    padding-top: 100px;
-    padding-left: 50px;
+  
+    
 }
 .button {
 
@@ -289,7 +290,7 @@ hr {
 }
 .banner {
     margin-left: 50px;
-    margin-top: 65px;
+    margin-top: 62px;
 
 }
 .optionss{
